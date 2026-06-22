@@ -151,20 +151,22 @@ My approach: **build → break → learn → repeat.**
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BhavishySankhla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&ring_color=A78BFA" height="165"/>
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&ring_color=A78BFA&count_private=true&include_all_commits=true" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavishySankhla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" height="165"/>
-
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=6" height="170"/>
 <br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavishySankhla&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="60%"/>
-
+ 
+<!-- Streak Stats — canonical URL (most reliable public endpoint) -->
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA" width="55%"/>
+<br/><br/>
+ 
+<!-- GitHub Trophies — very stable, great visual fallback -->
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8" width="100%"/>
 </div>
-
-> 💡 *Replace `BhavishySankhla` with your actual GitHub username in all stat URLs above.*
-
+> ⚡ Replace every `YOUR_GITHUB_USERNAME` above with your actual GitHub username to activate these cards.
+ 
 <br/>
 
 ---
